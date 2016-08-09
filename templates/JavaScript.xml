@@ -1,0 +1,5 @@
+<templateSet group="JavaScript">
+  <template name="us" value="'use strict';&#10;$END$" description="Inserts 'use strict' statement" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

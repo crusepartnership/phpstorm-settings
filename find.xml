@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Directory '/Users/tristan/workspace/lucidity/app'" />
+    <option name="defaultScopeName" value="Directory '/Users/tristan/workspace/lucidity/app'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/tristan/workspace/lucidity/app'" />
+    <option name="FILE_MASK" value="*" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*Test.php</mask>
+      <mask>*.orig</mask>
+      <mask>*.xml</mask>
+      <mask>*.less</mask>
+      <mask>*.yml</mask>
+      <mask>*.twig</mask>
+      <mask>*.php</mask>
+      <mask>*</mask>
+    </recentFileMasks>
+  </component>
+</application>

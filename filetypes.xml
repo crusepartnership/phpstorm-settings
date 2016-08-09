@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="md" type="Native" />
+      <mapping pattern="DocumentDefinitionTransformer" type="PHP" />
+      <mapping pattern="old" type="PLAIN_TEXT" />
+      <mapping pattern="envlink" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="new" type="PLAIN_TEXT" />
+      <mapping pattern="provision2" type="PLAIN_TEXT" />
+      <mapping ext="svg" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="example" type="YAML" />
+      <mapping ext="raml" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
