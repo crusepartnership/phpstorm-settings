@@ -10,6 +10,7 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="provision2" type="PLAIN_TEXT" />
+      <mapping ext="tss" type="PLAIN_TEXT" />
       <mapping ext="svg" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
