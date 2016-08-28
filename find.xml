@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Directory '/Users/tristan/workspace/lucidity/app'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/tristan/workspace/lucidity/app'" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,9 +20,9 @@
       <mask>*.less</mask>
       <mask>*.yml</mask>
       <mask>*.twig</mask>
-      <mask>*.php</mask>
       <mask>*</mask>
       <mask>*.xml</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
