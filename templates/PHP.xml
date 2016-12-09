@@ -1,5 +1,6 @@
 <templateSet group="PHP">
   <template name="provider" value="&lt;?php namespace App\Providers;&#10;&#10;use Illuminate\Support\ServiceProvider;&#10;&#10;class $CLASSNAME$Provider extends ServiceProvider {&#10;&#10;    public function boot()&#10;    {&#10;        //&#10;    }&#10;&#10;    public function register()&#10;    {&#10;        //&#10;    }&#10;&#10;}&#10;" toReformat="false" toShortenFQNames="true">
     <variable name="CLASSNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
