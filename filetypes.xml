@@ -5,11 +5,12 @@
       <removed_mapping ext="md" type="Markdown" />
       <mapping ext="md" type="Native" />
       <mapping pattern="DocumentDefinitionTransformer" type="PHP" />
+      <mapping pattern="vagrant_composer" type="PLAIN_TEXT" />
       <mapping pattern="old" type="PLAIN_TEXT" />
       <mapping pattern="envlink" type="PLAIN_TEXT" />
-      <mapping pattern="provision2" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="provision2" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="tss" type="PLAIN_TEXT" />
