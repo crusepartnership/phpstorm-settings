@@ -7,11 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -24,8 +21,6 @@
       <mask>*find*.xml</mask>
       <mask>.x</mask>
       <mask>.</mask>
-      <mask>*</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.twog</mask>
@@ -35,8 +30,15 @@
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*x</mask>
+      <mask>*xm</mask>
+      <mask>*xml1</mask>
+      <mask>*xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
