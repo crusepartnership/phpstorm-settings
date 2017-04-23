@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
@@ -16,12 +14,9 @@
       <mask>*.orig</mask>
       <mask>*.less</mask>
       <mask>*.yml</mask>
-      <mask>*.php</mask>
       <mask>*find*.xml</mask>
       <mask>.x</mask>
       <mask>.</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.twog</mask>
       <mask>*.twoi</mask>
       <mask>*.two</mask>
@@ -31,13 +26,16 @@
       <mask>*.t</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>*x</mask>
       <mask>*xm</mask>
       <mask>*xml1</mask>
       <mask>*xml</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
