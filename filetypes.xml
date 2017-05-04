@@ -5,22 +5,23 @@
       <removed_mapping ext="md" type="Markdown" />
       <mapping ext="md" type="Native" />
       <mapping pattern="DocumentDefinitionTransformer" type="PHP" />
-      <mapping pattern="provision2" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="envlink" type="PLAIN_TEXT" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern=".s3cfg" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="vagrant_composer" type="PLAIN_TEXT" />
-      <mapping pattern="new" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="old" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="envlink" type="PLAIN_TEXT" />
+      <mapping pattern="new" type="PLAIN_TEXT" />
+      <mapping pattern="vagrant_composer" type="PLAIN_TEXT" />
+      <mapping pattern="provision2" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="tss" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
-      <mapping ext="example" type="YAML" />
       <mapping ext="raml" type="YAML" />
+      <mapping ext="example" type="YAML" />
     </extensionMap>
   </component>
 </application>
