@@ -7,8 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="NotificationType.yml" />
     <recentFileMasks>
-      <mask>*xml1</mask>
       <mask>*xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
@@ -38,6 +38,7 @@
       <mask>.</mask>
       <mask>.xml</mask>
       <mask>*.xml</mask>
+      <mask>NotificationType.yml</mask>
     </recentFileMasks>
   </component>
 </application>
