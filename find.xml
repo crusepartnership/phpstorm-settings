@@ -10,7 +10,6 @@
     <recentFileMasks>
       <mask>*xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.mamage</mask>
@@ -19,8 +18,6 @@
       <mask>*.mam</mask>
       <mask>*.ma</mask>
       <mask>*.m</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*mana</mask>
       <mask>*manae</mask>
       <mask>*manage</mask>
@@ -34,10 +31,13 @@
       <mask>*manageincidentinjuryreport</mask>
       <mask>*manageincidentinjuryreport.</mask>
       <mask>*manageincidentinjuryreport.xml</mask>
-      <mask>.</mask>
       <mask>.xml</mask>
-      <mask>*.xml</mask>
       <mask>NotificationType.yml</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
