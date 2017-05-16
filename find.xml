@@ -5,14 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*xml</mask>
-      <mask>*.ph</mask>
-      <mask>*.mamage</mask>
-      <mask>*.mamag</mask>
-      <mask>*.mama</mask>
-      <mask>*.mam</mask>
       <mask>*.ma</mask>
       <mask>*.m</mask>
       <mask>*mana</mask>
@@ -31,12 +25,18 @@
       <mask>.xml</mask>
       <mask>NotificationType.yml</mask>
       <mask>.</mask>
-      <mask>*</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
