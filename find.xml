@@ -11,8 +11,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.ma</mask>
-      <mask>*.m</mask>
       <mask>*mana</mask>
       <mask>*manae</mask>
       <mask>*manage</mask>
@@ -29,16 +27,18 @@
       <mask>.xml</mask>
       <mask>NotificationType.yml</mask>
       <mask>.</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.twig</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
+      <mask>*</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*</mask>
+      <mask>*.x,;</mask>
+      <mask>*.x,</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
     </recentFileMasks>
