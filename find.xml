@@ -7,9 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*manageincidentin</mask>
       <mask>*manageincidentinj</mask>
       <mask>*manageincidentinju</mask>
       <mask>*manageincidentinjur</mask>
@@ -36,9 +35,10 @@
       <mask>*xml</mask>
       <mask>*xm</mask>
       <mask>*x</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
