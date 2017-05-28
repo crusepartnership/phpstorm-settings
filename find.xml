@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="androidutils-release.aar" />
     <recentFileMasks>
-      <mask>*manageincidentinj</mask>
       <mask>*manageincidentinju</mask>
       <mask>*manageincidentinjur</mask>
       <mask>*manageincidentinjury</mask>
@@ -35,6 +34,7 @@
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>androidutils-release.aar</mask>
     </recentFileMasks>
   </component>
 </application>
