@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*manageincidentinju</mask>
       <mask>*manageincidentinjur</mask>
@@ -26,15 +26,15 @@
       <mask>*x</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>androidutils-release.aar</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
