@@ -8,15 +8,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*manageincidentinju</mask>
-      <mask>*manageincidentinjur</mask>
-      <mask>*manageincidentinjury</mask>
-      <mask>*manageincidentinjuryrepor</mask>
-      <mask>*manageincidentinjuryreport</mask>
-      <mask>*manageincidentinjuryreport.</mask>
-      <mask>*manageincidentinjuryreport.xml</mask>
-      <mask>.xml</mask>
-      <mask>NotificationType.yml</mask>
       <mask>.</mask>
       <mask>*.twig</mask>
       <mask>*.twi</mask>
@@ -35,9 +26,18 @@
       <mask>*.xml</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>find</mask>
+      <mask>fin</mask>
+      <mask>fi</mask>
+      <mask>f</mask>
+      <mask>*</mask>
+      <mask>*fin</mask>
+      <mask>*find</mask>
+      <mask>*find*</mask>
+      <mask>*find*.x</mask>
+      <mask>*find*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
