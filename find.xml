@@ -23,21 +23,21 @@
       <mask>androidutils-release.aar</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
       <mask>find</mask>
       <mask>fin</mask>
       <mask>fi</mask>
       <mask>f</mask>
-      <mask>*</mask>
       <mask>*fin</mask>
       <mask>*find</mask>
       <mask>*find*</mask>
       <mask>*find*.x</mask>
       <mask>*find*.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
