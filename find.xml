@@ -7,11 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="import.php" />
     <recentFileMasks>
-      <mask>.</mask>
-      <mask>*.twig</mask>
-      <mask>*.twi</mask>
-      <mask>*.tw</mask>
       <mask>*.t</mask>
       <mask>*.x,;</mask>
       <mask>*.x,</mask>
@@ -38,6 +35,10 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>.php</mask>
+      <mask>impor.php</mask>
+      <mask>import..php</mask>
+      <mask>import.php</mask>
     </recentFileMasks>
   </component>
 </application>
