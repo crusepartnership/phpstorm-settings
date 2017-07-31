@@ -5,18 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*User*.xml" />
     <recentFileMasks>
-      <mask>*.t</mask>
-      <mask>*.x,;</mask>
-      <mask>*.x,</mask>
-      <mask>*xml</mask>
-      <mask>*xm</mask>
-      <mask>*x</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>androidutils-release.aar</mask>
-      <mask>*.ph</mask>
       <mask>find</mask>
       <mask>fin</mask>
       <mask>fi</mask>
@@ -34,9 +24,19 @@
       <mask>impor.php</mask>
       <mask>import..php</mask>
       <mask>import.php</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>*Yse</mask>
+      <mask>*Ys</mask>
+      <mask>*Y</mask>
+      <mask>*</mask>
+      <mask>*U</mask>
+      <mask>*Us</mask>
+      <mask>*User</mask>
+      <mask>*User*</mask>
+      <mask>*User*.</mask>
+      <mask>*User*.x</mask>
+      <mask>*User*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
