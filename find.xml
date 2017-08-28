@@ -1,11 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*Us</mask>
-      <mask>*User</mask>
       <mask>*User*</mask>
       <mask>*User*.</mask>
       <mask>*User*.x</mask>
@@ -30,10 +31,12 @@
       <mask>Person*.</mask>
       <mask>Person*.xm</mask>
       <mask>Person*.xml</mask>
+      <mask>*.php</mask>
+      <mask>*.p</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
