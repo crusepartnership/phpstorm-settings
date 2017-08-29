@@ -5,9 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*User*.</mask>
       <mask>*User*.x</mask>
       <mask>*User*.xml</mask>
       <mask>find</mask>
@@ -30,13 +29,14 @@
       <mask>Person*.</mask>
       <mask>Person*.xm</mask>
       <mask>Person*.xml</mask>
-      <mask>*.p</mask>
-      <mask>*</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
