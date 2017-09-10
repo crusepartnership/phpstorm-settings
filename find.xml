@@ -5,14 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*menus.xml" />
+    <option name="FILE_MASK" value="*find*.xml" />
     <recentFileMasks>
-      <mask>*find*.x</mask>
-      <mask>*find*.xml</mask>
-      <mask>P</mask>
-      <mask>Per</mask>
-      <mask>Pers</mask>
-      <mask>Perso</mask>
       <mask>Person</mask>
       <mask>Person*</mask>
       <mask>Person*.</mask>
@@ -28,7 +22,6 @@
       <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>*mens</mask>
       <mask>*men</mask>
       <mask>*menus</mask>
@@ -37,6 +30,13 @@
       <mask>*menus.xm;</mask>
       <mask>*menus.xm</mask>
       <mask>*menus.xml</mask>
+      <mask>*</mask>
+      <mask>*fin</mask>
+      <mask>*find</mask>
+      <mask>*find*</mask>
+      <mask>*find*.x</mask>
+      <mask>*find*.xm</mask>
+      <mask>*find*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
