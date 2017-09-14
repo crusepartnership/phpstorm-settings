@@ -6,21 +6,12 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>Person</mask>
-      <mask>Person*</mask>
-      <mask>Person*.</mask>
-      <mask>Person*.xm</mask>
-      <mask>Person*.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.</mask>
       <mask>*mens</mask>
       <mask>*men</mask>
       <mask>*menus</mask>
@@ -29,13 +20,22 @@
       <mask>*menus.xm;</mask>
       <mask>*menus.xm</mask>
       <mask>*menus.xml</mask>
-      <mask>*</mask>
       <mask>*fin</mask>
       <mask>*find</mask>
       <mask>*find*</mask>
       <mask>*find*.x</mask>
       <mask>*find*.xm</mask>
       <mask>*find*.xml</mask>
+      <mask>oy</mask>
+      <mask>o</mask>
+      <mask>(</mask>
+      <mask>)</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.pu</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
