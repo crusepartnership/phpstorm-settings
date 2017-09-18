@@ -5,9 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*twig" />
+    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
-      <mask>*.y</mask>
       <mask>*mens</mask>
       <mask>*men</mask>
       <mask>*menus</mask>
@@ -32,11 +31,12 @@
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*=</mask>
-      <mask>*</mask>
-      <mask>*t</mask>
-      <mask>*tw</mask>
-      <mask>*twi</mask>
       <mask>*twig</mask>
+      <mask>*twi</mask>
+      <mask>*tw</mask>
+      <mask>*t</mask>
+      <mask>*</mask>
+      <mask>*php</mask>
     </recentFileMasks>
   </component>
 </application>
