@@ -5,12 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*twig" />
     <recentFileMasks>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.ph</mask>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*mens</mask>
       <mask>*men</mask>
@@ -30,12 +26,17 @@
       <mask>o</mask>
       <mask>(</mask>
       <mask>)</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.pu</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*=</mask>
+      <mask>*</mask>
+      <mask>*t</mask>
+      <mask>*tw</mask>
+      <mask>*twi</mask>
+      <mask>*twig</mask>
     </recentFileMasks>
   </component>
 </application>
