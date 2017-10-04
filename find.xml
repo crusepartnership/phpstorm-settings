@@ -4,14 +4,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
-      <mask>*menus.x</mask>
-      <mask>*menus.xm;</mask>
       <mask>*menus.xm</mask>
       <mask>*menus.xml</mask>
       <mask>*fin</mask>
@@ -33,13 +30,15 @@
       <mask>*twi</mask>
       <mask>*tw</mask>
       <mask>*t</mask>
-      <mask>*php</mask>
-      <mask>*ph</mask>
-      <mask>*p</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
       <mask>*xml</mask>
+      <mask>*xm</mask>
+      <mask>*x</mask>
+      <mask>*</mask>
+      <mask>*p</mask>
+      <mask>*ph</mask>
+      <mask>*php</mask>
     </recentFileMasks>
   </component>
 </application>
