@@ -7,37 +7,38 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*manageinformformrecord.xml" />
     <recentFileMasks>
-      <mask>*menus.xm</mask>
-      <mask>*menus.xml</mask>
-      <mask>*fin</mask>
-      <mask>*find</mask>
-      <mask>*find*</mask>
-      <mask>*find*.x</mask>
-      <mask>*find*.xm</mask>
-      <mask>*find*.xml</mask>
-      <mask>oy</mask>
-      <mask>o</mask>
-      <mask>(</mask>
-      <mask>)</mask>
-      <mask>*.pu</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>*=</mask>
-      <mask>*twig</mask>
-      <mask>*twi</mask>
-      <mask>*tw</mask>
-      <mask>*t</mask>
-      <mask>*.</mask>
-      <mask>*.xml</mask>
-      <mask>*xml</mask>
-      <mask>*xm</mask>
-      <mask>*x</mask>
+      <mask>manag</mask>
+      <mask>mana</mask>
+      <mask>man</mask>
+      <mask>ma</mask>
+      <mask>m</mask>
+      <mask>em</mask>
+      <mask>e</mask>
       <mask>*</mask>
-      <mask>*p</mask>
-      <mask>*ph</mask>
-      <mask>*php</mask>
+      <mask>*m</mask>
+      <mask>*man</mask>
+      <mask>*mana</mask>
+      <mask>*manate</mask>
+      <mask>*manat</mask>
+      <mask>*manage</mask>
+      <mask>*managei</mask>
+      <mask>*manageinf</mask>
+      <mask>*manageinfo</mask>
+      <mask>*manageinform</mask>
+      <mask>*manageinformf</mask>
+      <mask>*manageinformfo</mask>
+      <mask>*manageinformform</mask>
+      <mask>*manageinformformre</mask>
+      <mask>*manageinformformrec</mask>
+      <mask>*manageinformformrecod</mask>
+      <mask>*manageinformformreco</mask>
+      <mask>*manageinformformrecor</mask>
+      <mask>*manageinformformrecord</mask>
+      <mask>*manageinformformrecord.</mask>
+      <mask>*manageinformformrecord.xm</mask>
+      <mask>*manageinformformrecord.xml</mask>
     </recentFileMasks>
   </component>
 </application>
