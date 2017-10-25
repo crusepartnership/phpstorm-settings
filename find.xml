@@ -7,15 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>manag</mask>
-      <mask>mana</mask>
-      <mask>man</mask>
-      <mask>ma</mask>
-      <mask>m</mask>
-      <mask>em</mask>
-      <mask>e</mask>
-      <mask>*</mask>
       <mask>*m</mask>
       <mask>*man</mask>
       <mask>*mana</mask>
@@ -38,6 +31,14 @@
       <mask>*manageinformformrecord.</mask>
       <mask>*manageinformformrecord.xm</mask>
       <mask>*manageinformformrecord.xml</mask>
+      <mask>t</mask>
+      <mask>tw</mask>
+      <mask>twi</mask>
+      <mask>twig</mask>
+      <mask>*twig</mask>
+      <mask>*.twig</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
