@@ -7,15 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*find*.xml" />
     <recentFileMasks>
-      <mask>*mana</mask>
-      <mask>*manate</mask>
-      <mask>*manat</mask>
-      <mask>*manage</mask>
-      <mask>*managei</mask>
-      <mask>*manageinf</mask>
-      <mask>*manageinfo</mask>
       <mask>*manageinform</mask>
       <mask>*manageinformf</mask>
       <mask>*manageinformfo</mask>
@@ -38,7 +31,14 @@
       <mask>*.php</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
+      <mask>.xml</mask>
       <mask>*.xml</mask>
+      <mask>*finc.xml</mask>
+      <mask>*findpro.xml</mask>
+      <mask>*findpr.xml</mask>
+      <mask>*findp.xml</mask>
+      <mask>*find.xml</mask>
+      <mask>*find*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
