@@ -7,37 +7,38 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*protoincident.xml" />
     <recentFileMasks>
-      <mask>*manageinform</mask>
-      <mask>*manageinformf</mask>
-      <mask>*manageinformfo</mask>
-      <mask>*manageinformform</mask>
-      <mask>*manageinformformre</mask>
-      <mask>*manageinformformrec</mask>
-      <mask>*manageinformformrecod</mask>
-      <mask>*manageinformformreco</mask>
-      <mask>*manageinformformrecor</mask>
-      <mask>*manageinformformrecord</mask>
-      <mask>*manageinformformrecord.</mask>
-      <mask>*manageinformformrecord.xm</mask>
-      <mask>*manageinformformrecord.xml</mask>
-      <mask>t</mask>
-      <mask>tw</mask>
-      <mask>twi</mask>
-      <mask>twig</mask>
-      <mask>*twig</mask>
-      <mask>*.twig</mask>
-      <mask>*.php</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>.xml</mask>
-      <mask>*.xml</mask>
-      <mask>*finc.xml</mask>
-      <mask>*findpro.xml</mask>
-      <mask>*findpr.xml</mask>
-      <mask>*findp.xml</mask>
-      <mask>*find.xml</mask>
       <mask>*find*.xml</mask>
+      <mask>*/protoincident.xml</mask>
+      <mask>*liatprotoincident.xml</mask>
+      <mask>*liaprotoincident.xml</mask>
+      <mask>*list/protoincident.xml</mask>
+      <mask>*lists/protoincident.xml</mask>
+      <mask>*listsprotoincident.xml</mask>
+      <mask>*listprotoincident.xml</mask>
+      <mask>*lisprotoincident.xml</mask>
+      <mask>*liprotoincident.xml</mask>
+      <mask>*lprotoincident.xml</mask>
+      <mask>protoincident.xml</mask>
+      <mask>lprotoincident.xml</mask>
+      <mask>lisprotoincident.xml</mask>
+      <mask>listprotoincident.xml</mask>
+      <mask>list*protoincident.xml</mask>
+      <mask>lis*protoincident.xml</mask>
+      <mask>li*protoincident.xml</mask>
+      <mask>l*protoincident.xml</mask>
+      <mask>c*protoincident.xml</mask>
+      <mask>con*protoincident.xml</mask>
+      <mask>conf*protoincident.xml</mask>
+      <mask>*config*protoincident.xml</mask>
+      <mask>config*protoincident.xml</mask>
+      <mask>onfig*protoincident.xml</mask>
+      <mask>nfig*protoincident.xml</mask>
+      <mask>fig*protoincident.xml</mask>
+      <mask>ig*protoincident.xml</mask>
+      <mask>g*protoincident.xml</mask>
+      <mask>*protoincident.xml</mask>
     </recentFileMasks>
   </component>
 </application>
