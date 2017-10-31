@@ -7,13 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*import.php" />
     <recentFileMasks>
-      <mask>*find*.xml</mask>
-      <mask>*/protoincident.xml</mask>
-      <mask>*liatprotoincident.xml</mask>
-      <mask>*liaprotoincident.xml</mask>
-      <mask>*list/protoincident.xml</mask>
-      <mask>*lists/protoincident.xml</mask>
       <mask>*listsprotoincident.xml</mask>
       <mask>*listprotoincident.xml</mask>
       <mask>*lisprotoincident.xml</mask>
@@ -38,6 +33,12 @@
       <mask>ig*protoincident.xml</mask>
       <mask>g*protoincident.xml</mask>
       <mask>*protoincident.xml</mask>
+      <mask>*</mask>
+      <mask>*i</mask>
+      <mask>*im</mask>
+      <mask>*impor</mask>
+      <mask>*import.</mask>
+      <mask>*import.php</mask>
     </recentFileMasks>
   </component>
 </application>
