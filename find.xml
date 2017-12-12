@@ -1,26 +1,19 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>lis*protoincident.xml</mask>
-      <mask>li*protoincident.xml</mask>
-      <mask>l*protoincident.xml</mask>
-      <mask>c*protoincident.xml</mask>
-      <mask>con*protoincident.xml</mask>
-      <mask>conf*protoincident.xml</mask>
-      <mask>*config*protoincident.xml</mask>
-      <mask>config*protoincident.xml</mask>
-      <mask>onfig*protoincident.xml</mask>
       <mask>nfig*protoincident.xml</mask>
       <mask>fig*protoincident.xml</mask>
       <mask>ig*protoincident.xml</mask>
       <mask>g*protoincident.xml</mask>
       <mask>*protoincident.xml</mask>
-      <mask>*</mask>
       <mask>*i</mask>
       <mask>*im</mask>
       <mask>*impor</mask>
@@ -31,11 +24,21 @@
       <mask>*imp.php</mask>
       <mask>*im.php</mask>
       <mask>*i.php</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
+      <mask>*.js\\\</mask>
+      <mask>*.js\\</mask>
+      <mask>*.js\</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*hp</mask>
+      <mask>*p</mask>
+      <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
