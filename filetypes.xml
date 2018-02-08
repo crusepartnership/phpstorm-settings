@@ -16,6 +16,7 @@
       <mapping pattern=".s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="docker-restart" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
+      <mapping pattern="docker-phpunit" type="PLAIN_TEXT" />
       <mapping pattern="commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="provision2" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
