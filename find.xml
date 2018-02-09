@@ -7,12 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="composer.json" />
     <recentFileMasks>
-      <mask>*import.</mask>
-      <mask>*import.php</mask>
-      <mask>*impor.php</mask>
-      <mask>*impo.php</mask>
-      <mask>*imp.php</mask>
       <mask>*im.php</mask>
       <mask>*i.php</mask>
       <mask>*.ph</mask>
@@ -38,6 +34,11 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>c</mask>
+      <mask>com</mask>
+      <mask>compos</mask>
+      <mask>composer.</mask>
+      <mask>composer.json</mask>
     </recentFileMasks>
   </component>
 </application>
