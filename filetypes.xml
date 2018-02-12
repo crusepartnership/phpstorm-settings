@@ -22,6 +22,7 @@
       <mapping pattern="docker-phpunit" type="PLAIN_TEXT" />
       <mapping pattern="vagrant_composer" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="phpunit-selenium" type="PLAIN_TEXT" />
       <mapping pattern="old" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern="docker-selenium-hub" type="PLAIN_TEXT" />
