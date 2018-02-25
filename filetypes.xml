@@ -18,6 +18,7 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="docker-build-ci" type="PLAIN_TEXT" />
+      <mapping pattern="marker" type="PLAIN_TEXT" />
       <mapping pattern="docker-restart" type="PLAIN_TEXT" />
       <mapping pattern="docker-phpunit-selenium" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
