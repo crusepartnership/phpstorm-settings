@@ -7,6 +7,7 @@
       <mapping ext="md" type="Native" />
       <mapping pattern="DocumentDefinitionTransformer" type="PHP" />
       <mapping pattern="docker-selenium-node" type="PLAIN_TEXT" />
+      <mapping pattern="docker-build-php-cli5" type="PLAIN_TEXT" />
       <mapping pattern="install_hooks" type="PLAIN_TEXT" />
       <mapping pattern=".workingdir" type="PLAIN_TEXT" />
       <mapping pattern="provision2" type="PLAIN_TEXT" />
