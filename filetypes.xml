@@ -8,10 +8,10 @@
       <mapping pattern="DocumentDefinitionTransformer" type="PHP" />
       <mapping pattern="docker-selenium-node" type="PLAIN_TEXT" />
       <mapping pattern="docker-build-php-cli5" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="install_hooks" type="PLAIN_TEXT" />
       <mapping pattern=".workingdir" type="PLAIN_TEXT" />
-      <mapping pattern="provision2" type="PLAIN_TEXT" />
-      <mapping pattern="commit-msg" type="PLAIN_TEXT" />
+      <mapping pattern="vagrant_composer" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="docker-rebuild" type="PLAIN_TEXT" />
@@ -23,14 +23,15 @@
       <mapping pattern="docker-restart" type="PLAIN_TEXT" />
       <mapping pattern="docker-phpunit-selenium" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="docker-phpunit" type="PLAIN_TEXT" />
-      <mapping pattern="vagrant_composer" type="PLAIN_TEXT" />
+      <mapping pattern="commit-msg" type="PLAIN_TEXT" />
+      <mapping pattern="provision2" type="PLAIN_TEXT" />
       <mapping pattern="docker-destroy" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="phpunit-selenium" type="PLAIN_TEXT" />
       <mapping pattern="old" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
+      <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="docker-selenium-hub" type="PLAIN_TEXT" />
       <mapping ext="tss" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
