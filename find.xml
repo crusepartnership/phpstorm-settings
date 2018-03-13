@@ -7,16 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>composer.json</mask>
-      <mask>m</mask>
-      <mask>ma</mask>
-      <mask>man</mask>
-      <mask>mana</mask>
-      <mask>manag</mask>
-      <mask>managed</mask>
-      <mask>manage</mask>
       <mask>manage*</mask>
       <mask>manage*.ex</mask>
       <mask>manage*.e</mask>
@@ -27,18 +18,26 @@
       <mask>manage*.xml</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
-      <mask>*</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.php\</mask>
       <mask>*.php\\\</mask>
       <mask>*.php\\</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.jso</mask>
       <mask>*.json</mask>
+      <mask>*.jso</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>im</mask>
+      <mask>impor</mask>
+      <mask>import/.</mask>
+      <mask>import/</mask>
+      <mask>import</mask>
+      <mask>import.</mask>
+      <mask>import.php</mask>
+      <mask>*import.php</mask>
     </recentFileMasks>
   </component>
 </application>
