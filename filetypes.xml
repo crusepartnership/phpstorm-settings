@@ -25,6 +25,7 @@
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="docker-phpunit" type="PLAIN_TEXT" />
       <mapping pattern="commit-msg" type="PLAIN_TEXT" />
+      <mapping pattern="docker-php-exec" type="PLAIN_TEXT" />
       <mapping pattern="provision2" type="PLAIN_TEXT" />
       <mapping pattern="docker-destroy" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
