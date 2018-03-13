@@ -7,13 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>*.p</mask>
-      <mask>c</mask>
-      <mask>com</mask>
-      <mask>compos</mask>
-      <mask>composer.</mask>
       <mask>composer.json</mask>
       <mask>m</mask>
       <mask>ma</mask>
@@ -33,12 +28,17 @@
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>*</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
+      <mask>*.php\</mask>
+      <mask>*.php\\\</mask>
+      <mask>*.php\\</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.jso</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
