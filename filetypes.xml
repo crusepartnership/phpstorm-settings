@@ -28,6 +28,7 @@
       <mapping pattern="docker-php-exec" type="PLAIN_TEXT" />
       <mapping pattern="provision2" type="PLAIN_TEXT" />
       <mapping pattern="docker-destroy" type="PLAIN_TEXT" />
+      <mapping pattern="docker-rebuild-fpm-with-debugging" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="phpunit-selenium" type="PLAIN_TEXT" />
       <mapping pattern="old" type="PLAIN_TEXT" />
