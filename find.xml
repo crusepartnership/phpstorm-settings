@@ -6,16 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>manage*</mask>
-      <mask>manage*.ex</mask>
-      <mask>manage*.e</mask>
-      <mask>manage*.</mask>
-      <mask>manage*.x,l</mask>
-      <mask>manage*.x,</mask>
-      <mask>manage*.x</mask>
-      <mask>manage*.xml</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
       <mask>*.php\</mask>
       <mask>*.php\\\</mask>
       <mask>*.php\\</mask>
@@ -26,8 +16,6 @@
       <mask>*.jso</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>im</mask>
       <mask>impor</mask>
       <mask>import/.</mask>
@@ -36,6 +24,18 @@
       <mask>import.</mask>
       <mask>import.php</mask>
       <mask>*import.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*mamnag.xml</mask>
+      <mask>*mamna.xml</mask>
+      <mask>*mamn.xml</mask>
+      <mask>*mam.xml</mask>
+      <mask>*ma.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*m.xml</mask>
+      <mask>*mana.xml</mask>
+      <mask>*manage.xml</mask>
+      <mask>*manage*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
