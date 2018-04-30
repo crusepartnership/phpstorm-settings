@@ -6,12 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.php\</mask>
-      <mask>*.php\\\</mask>
-      <mask>*.php\\</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.json</mask>
       <mask>*.jso</mask>
       <mask>*.js</mask>
@@ -24,18 +18,24 @@
       <mask>import.</mask>
       <mask>import.php</mask>
       <mask>*import.php</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*mamnag.xml</mask>
       <mask>*mamna.xml</mask>
       <mask>*mamn.xml</mask>
       <mask>*mam.xml</mask>
       <mask>*ma.xml</mask>
-      <mask>*.xml</mask>
       <mask>*m.xml</mask>
       <mask>*mana.xml</mask>
       <mask>*manage.xml</mask>
       <mask>*manage*.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pp</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
