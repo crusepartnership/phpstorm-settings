@@ -52,6 +52,12 @@
         <mark key="." line="3" column="4" />
       </file>
       <file name="/workspace/LucidityApp/lucidity-app/app/controllers/photogallery.js" timestamp="1525150749578" />
+      <file name="$USER_HOME$/Development/workspace/PhpStorm-settings/README.md" timestamp="1525387900709">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+      </file>
       <file name="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/datapopulator.js" timestamp="1524551319722">
         <mark key="[" line="82" column="28" />
         <mark key="]" line="82" column="28" />
@@ -145,8 +151,11 @@
         <mark key="^" line="51" column="72" />
         <mark key="." line="51" column="72" />
       </file>
-      <file name="$USER_HOME$/Development/workspace/PhpStorm-settings/.gitignore" timestamp="1525386273571">
-        <mark key="[" line="3" column="12" />
+      <file name="$USER_HOME$/Development/workspace/PhpStorm-settings/.gitignore" timestamp="1525386690426">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
       </file>
       <file name="$USER_HOME$/Development/workspace/Integral/integral/testfile" timestamp="1525231197868">
         <mark key="[" line="0" column="0" />
@@ -300,10 +309,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyaWdnZXJzIHsgcG9sbFNDTSgnKi8yICogKiAqICcpIH0K</text>
+        <text encoding="base64">NCkgVW5kZXIgdGhlICoqUmVhZC1vbmx5ICoqIHNlY3Rpb24gY2xpY2sgdGhlICoqKyoqIGJ1dHRvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Respositorys</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -312,34 +321,34 @@
         <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgcnVuIC13IC92YXIvd3d3L2ludGVncmFsIHBoaW5nICIkQCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyaWdnZXJzIHsgcG9sbFNDTSgnKi8yICogKiAqICcpIH0K</text>
+        <text encoding="base64">NCkgVW5kZXIgdGhlICoqUmVhZC1vbmx5ICoqIHNlY3Rpb24gY2xpY2sgdGhlICoqKyoqIGJ1dHRvbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRyaWdnZXJzIHsgcG9sbFNDTSgnKi8yICogKiAqICcpIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2RmZGZzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">c2RmZGZzCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ZAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ZHJ0ZXIK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRyaWdnZXJzIHsgcG9sbFNDTSgnLzIgKiAqICogJykgfQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICBJbnRlZ3JhbDogewogICAgICAgICAgICAgICAgICAgICAgICB3aXRoRG9ja2VyUmVnaXN0cnkoW3VybDogJycsIGNyZWRlbnRpYWxzSWQ6ICdkb2NrZXItY2xvdWQnXSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2ggIiIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VkbyBkb2NrZXIgYnVpbGQgLWYgRG9ja2VyZmlsZS5jaSAtLWJ1aWxkLWFyZyBDSV9CUkFOQ0g9JHtlbnYuQlJBTkNIX05BTUV9IC10IGx1Y2lkaXR5c29mdHdhcmUvaW50ZWdyYWw6JHtlbnYuQlJBTkNIX05BTUV9IC4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdWRvIGRvY2tlciBwdXNoIGx1Y2lkaXR5c29mdHdhcmUvaW50ZWdyYWw6JHtlbnYuQlJBTkNIX05BTUV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIiIKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -394,9 +403,9 @@
         <entry>330</entry>
         <entry>370</entry>
         <entry>create(</entry>
-        <entry>wq</entry>
         <entry>668</entry>
         <entry>649</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
