@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+# we probaly only want to share these two directories
+# We definilty want the code stye to be the same for every one
+!/codestyles/
+# The file types are less of an issue, but there are some useful things in here for Titanium
+!/filetypes/
+# Its the readme so read it
+!/README.md
+# we probably don't want to be able to add any thing else as is will overide you personalisations of the IDE
+*
