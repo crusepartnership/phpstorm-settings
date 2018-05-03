@@ -1,0 +1,432 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/workspace/Integral2/integral/vendor/zendframework/zendframework1/library/Zend/Session.php" timestamp="1525059500546">
+        <mark key="[" line="647" column="0" />
+        <mark key="]" line="647" column="0" />
+        <mark key="^" line="647" column="31" />
+        <mark key="." line="647" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/LucidityApp/lucidity/tests/rest/IntegralAPI/InformFormVersionApiCest.php" timestamp="1524201355101">
+        <mark key="[" line="46" column="49" />
+        <mark key="]" line="46" column="50" />
+        <mark key="^" line="46" column="50" />
+        <mark key="." line="46" column="50" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/LucidityApp/integral/version.yml" timestamp="1524550714477">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="/workspace/Integral2/integral/README.md" timestamp="1525044938847">
+        <mark key="[" line="61" column="72" />
+        <mark key="]" line="62" column="149" />
+        <mark key="." line="62" column="149" />
+        <mark key="^" line="62" column="149" />
+      </file>
+      <file name="/workspace/LucidityApp/integral/config/development.yml" timestamp="1525065321896">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/workspace/Integral2/integral/.docker/php-fpm5/extra-php.ini" timestamp="1525063819639">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/LucidityApp/lucidity/database/migrations/Version20180420133046.php" timestamp="1524201929374">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="19" column="61" />
+        <mark key="." line="19" column="61" />
+        <mark key="^" line="19" column="94" />
+      </file>
+      <file name="/workspace/Integral2/integral/testfile" timestamp="1525230816782">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="/workspace/LucidityApp/lucidity-app/app/controllers/photogallery.js" timestamp="1525150749578" />
+      <file name="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/datapopulator.js" timestamp="1524551319722">
+        <mark key="[" line="82" column="28" />
+        <mark key="]" line="82" column="28" />
+        <mark key="." line="82" column="28" />
+        <mark key="^" line="82" column="28" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/LucidityApp/integral/build/schema/inform.yml" timestamp="1524450271169">
+        <mark key="[" line="109" column="22" />
+        <mark key="]" line="111" column="15" />
+        <mark key="^" line="111" column="15" />
+        <mark key="." line="111" column="15" />
+      </file>
+      <file name="/workspace/LucidityApp/etc-lucidity-docker/environment.yml" timestamp="1525066542706">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/LucidityApp/integral/application/config/api/v3/api.raml" timestamp="1524547742285">
+        <mark key="[" line="1223" column="21" />
+        <mark key="]" line="1267" column="22" />
+        <mark key="^" line="1267" column="22" />
+        <mark key="." line="1267" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/LucidityApp/cruse-library/library/Cruse/Job/CacheFormDefinition.php" timestamp="1524448027477">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="24" column="83" />
+        <mark key="." line="24" column="83" />
+        <mark key="^" line="24" column="83" />
+      </file>
+      <file name="/workspace/Integral2/integral/html/.user.ini" timestamp="1525063979331">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/LucidityApp/lucidity/app/Console/Commands/MigrateCommand.php" timestamp="1524194898215">
+        <mark key="[" line="45" column="105" />
+        <mark key="]" line="45" column="105" />
+        <mark key="^" line="45" column="105" />
+        <mark key="." line="45" column="105" />
+      </file>
+      <file name="/workspace/Integral2/integral/bin/docker-init-site" timestamp="1525131664598">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="50" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/workspace/Integral2/etc-lucidity-docker/environment.yml" timestamp="1525066530278">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+      </file>
+      <file name="/workspace/Integral2/integral/config/development.yml" timestamp="1525131167577">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="20" column="1" />
+      </file>
+      <file name="/workspace/Integral2/integral/.docker/artisan/Dockerfile" timestamp="1525051620054">
+        <mark key="[" line="2" column="62" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1525231009506">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/workspace/Integral2/cruse-library/library/Cruse/Environment/Integral.php" timestamp="1525059433971">
+        <mark key="[" line="501" column="7" />
+        <mark key="]" line="501" column="7" />
+        <mark key="^" line="501" column="9" />
+        <mark key="." line="501" column="7" />
+      </file>
+      <file name="/workspace/Integral2/integral/config/runtime/domains/integral2.nial.cruse.local/features.xml" timestamp="1525060289812">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="48" />
+      </file>
+      <file name="/workspace/Integral2/integral/.docker/artisan/docker-php-entrypoint" timestamp="1525051799612">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/informformversion.js" timestamp="1524528936122">
+        <mark key="[" line="51" column="72" />
+        <mark key="]" line="51" column="72" />
+        <mark key="^" line="51" column="72" />
+        <mark key="." line="51" column="72" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/Integral/integral/testfile" timestamp="1525231197868">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="/workspace/Integral2/integral/bin/docker-init-dev" timestamp="1525131863702">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/LucidityApp/integral/library/Integral/API/Service/InformFormRecordAppService.php" timestamp="1524548782985">
+        <mark key="[" line="444" column="85" />
+        <mark key="]" line="444" column="80" />
+        <mark key="." line="444" column="80" />
+        <mark key="^" line="444" column="80" />
+      </file>
+      <file name="/workspace/Integral2/integral/bin/docker-artisan" timestamp="1525051945125">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/formlist.js" timestamp="1524519011731">
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="19" />
+        <mark key="." line="68" column="19" />
+        <mark key="^" line="68" column="17" />
+      </file>
+      <file name="/workspace/LucidityApp/lucidity-app/app/lib/services/attachment.js" timestamp="1525150630351" />
+      <file name="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/agenda.js" timestamp="1524453445139">
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="39" column="50" />
+        <mark key="^" line="39" column="50" />
+        <mark key="." line="39" column="50" />
+      </file>
+      <file name="/workspace/Integral2/integral/bin/docker-phing" timestamp="1525049472836">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="1" column="50" />
+        <mark key="." line="1" column="45" />
+      </file>
+      <file name="/workspace/Integral2/integral/Jenkinsfile" timestamp="1525230982694">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="37" column="16" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/dictionary.js" />
+      <jump line="36" column="97" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/library/Integral/API/Service/BusinessStructureService.php" />
+      <jump line="22" column="46" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/incidentcard.js" />
+      <jump line="20" column="8" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/incidentcard.js" />
+      <jump line="436" column="74" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/application/ORM/da/InformFormRecordServer.php" />
+      <jump line="377" column="0" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/application/ORM/da/InformFormRecordServer.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/workspace/apps/plugins/acs-bluetooth-plugin/types/android.sdk.23/android.speech.d.ts" />
+      <jump line="87" column="19" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/library/Integral/API/Service/BusinessStructureService.php" />
+      <jump line="43" column="78" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/formlist.js" />
+      <jump line="161" column="29" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/formlist.js" />
+      <jump line="153" column="8" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/formlist.js" />
+      <jump line="232" column="60" filename="/workspace/lucidity-config/domains/coliban.luciditysoftware.com.au/import.php" />
+      <jump line="159" column="0" filename="/workspace/Integral/integral/library/Dashboard/Widget/InformResultsAnalysisByTime.php" />
+      <jump line="235" column="44" filename="/workspace/Integral/integral/library/Dashboard/Widget/InformResultsAnalysisByTime.php" />
+      <jump line="51" column="19" filename="/workspace/Integral/integral/library/Dashboard/Widget/InformResultsAnalysisByTime.php" />
+      <jump line="222" column="37" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/actionedit.js" />
+      <jump line="19" column="43" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/incidentcard.js" />
+      <jump line="161" column="51" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/action.js" />
+      <jump line="179" column="12" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/informformrecord.js" />
+      <jump line="278" column="28" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/widgets/lucidity.form/controllers/widget.js" />
+      <jump line="128" column="35" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/home.js" />
+      <jump line="283" column="38" filename="$USER_HOME$/Development/workspace/scripts/da_import/e_2_w_migration_live.sql" />
+      <jump line="34" column="26" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/widgets/lucidity.element-geolocation/controllers/widget.js" />
+      <jump line="164" column="12" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/widgets/lucidity.form/controllers/widget.js" />
+      <jump line="128" column="42" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/application/ORM/da/UserServer.php" />
+      <jump line="179" column="64" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/home.js" />
+      <jump line="174" column="8" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/home.js" />
+      <jump line="190" column="93" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/forms/elements/businessstructureelement.js" />
+      <jump line="13" column="77" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/userbusinessstructure.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/application/ORM/da/InformFormServer.php" />
+      <jump line="22" column="87" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/library/Integral/API/Service/InformColumnConfigService.php" />
+      <jump line="202" column="63" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/library/Integral/API/Service/InformFormRecordAppService.php" />
+      <jump line="198" column="8" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/library/Integral/API/Service/InformFormRecordAppService.php" />
+      <jump line="25" column="14" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/spec/inform.sync.data.spec.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/spec/inform.sync.data.spec.js" />
+      <jump line="5" column="27" filename="$USER_HOME$/Development/workspace/apps/lucidity-app/app/views/settings/settings.component.html" />
+      <jump line="66" column="12" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/informformrecord.js" />
+      <jump line="6" column="0" filename="/Dummy.txt" />
+      <jump line="88" column="40" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-library/src/Import/Importer.php" />
+      <jump line="53" column="23" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/widgets/lucidity.navigation-bar/controllers/widget.js" />
+      <jump line="9" column="22" filename="$USER_HOME$/Development/workspace/apps/lucidity-app/app/share/datetime/datetime.ts" />
+      <jump line="138" column="89" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/logging.js" />
+      <jump line="104" column="12" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/logging.js" />
+      <jump line="32" column="29" filename="$USER_HOME$/Development/workspace/scripts/attachments_for_competency_records/get_competency_record_recipts.sh" />
+      <jump line="16" column="33" filename="$USER_HOME$/Development/workspace/apps/lucidity-app/app/share/session/session.service.ts" />
+      <jump line="6" column="37" filename="$USER_HOME$/Development/workspace/apps/lucidity-app/app/app.routing.ts" />
+      <jump line="19" column="7" filename="$USER_HOME$/Development/workspace/apps/lucidity-app/app/share/session/session.service.ts" />
+      <jump line="80" column="12" filename="$USER_HOME$/Development/workspace/apps/lucidity-app/app/modules/login/login.component.ts" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="50" column="15" filename="/workspace/Integral/cruse-library/library/Cruse/Cron/Job/UpdateConditionalFormStatus.php" />
+      <jump line="243" column="48" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/widgets/lucidity.form/controllers/widget.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/library/Integral/API/Service/InformFormService.php" />
+      <jump line="391" column="70" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/informformrecord.js" />
+      <jump line="42" column="8" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/informformrecord.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Development/workspace/LucidityApp/test.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Development/workspace/LucidityApp/test.js" />
+      <jump line="93" column="0" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/library/Integral/API/Service/InformFormRecordAppService.php" />
+      <jump line="58" column="44" filename="/workspace/Integral/lucidity-library/src/Import/DataStructure/UniqueValue.php" />
+      <jump line="53" column="4" filename="/workspace/Integral/lucidity-library/src/Import/DataStructure/UniqueValue.php" />
+      <jump line="68" column="0" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/system.js" />
+      <jump line="15" column="59" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/spec/inform.duplicate.response_spec.js" />
+      <jump line="67" column="18" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/logs/integralapp.nial.cruse.localcli-2018-01-24.log" />
+      <jump line="339" column="27" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/controllers/formlist.js" />
+      <jump line="66" column="34" filename="/workspace/Integral2/integral/application/modules/inform/controllers/ManageinformformversionController.php" />
+      <jump line="76" column="35" filename="/workspace/Integral2/integral/application/modules/inform/controllers/ManageinformformversionController.php" />
+      <jump line="75" column="50" filename="/workspace/Integral2/integral/application/modules/inform/controllers/ManageinformformversionController.php" />
+      <jump line="31" column="70" filename="/workspace/Integral2/cruse-library/library/Cruse/Cron/Job/SyncInventory.php" />
+      <jump line="146" column="142" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/library/Integral/API/Service/InformFormRecordAppService.php" />
+      <jump line="58" column="45" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/widgets/lucidity.element-signature/controllers/widget.js" />
+      <jump line="5" column="16" filename="/workspace/Integral/lucidity/app/Settings/Http/apiroutes.php" />
+      <jump line="40" column="16" filename="/workspace/Integral/lucidity/app/Settings/Http/apiroutes.php" />
+      <jump line="7" column="16" filename="/workspace/Integral/lucidity/app/Settings/Http/apiroutes.php" />
+      <jump line="774" column="35" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/widgets/lucidity.form/controllers/widget.js" />
+      <jump line="509" column="40" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/informformrecord.js" />
+      <jump line="77" column="0" filename="/workspace/Integral2/lucidity/angular/action/action-attachment.controller.js" />
+      <jump line="45" column="79" filename="/workspace/Integral2/lucidity/app/Core/Command/UploadActionAttachmentHandler.php" />
+      <jump line="148" column="27" filename="/workspace/Integral2/lucidity/app/Core/Http/ActionController.php" />
+      <jump line="27" column="78" filename="/workspace/Integral2/lucidity/app/Core/Listener/UploadAttachmentToS3.php" />
+      <jump line="1292" column="77" filename="/workspace/LucidityApp/integral/application/ORM/da/InformFormRecordServer.php" />
+      <jump line="57" column="28" filename="/workspace/LucidityApp/cruse-library/library/Cruse/Elasticsearch/Query.php" />
+      <jump line="34" column="0" filename="/workspace/Integral2/integral/.docker/httpd/vhost.conf" />
+      <jump line="42" column="21" filename="/workspace/Integral2/integral/.docker/httpd/vhost.conf" />
+      <jump line="59" column="23" filename="/workspace/Integral2/integral/.docker/httpd/vhost.conf" />
+      <jump line="396" column="26" filename="/workspace/LucidityApp/integral/library/Integral/API/Service/ActionService.php" />
+      <jump line="414" column="34" filename="/workspace/LucidityApp/lucidity-app/app/lib/services/informformrecord.js" />
+      <jump line="42" column="72" filename="$USER_HOME$/Development/workspace/Integral/cruse-library/library/Cruse/Twig/Template/forms/row/gridelements.twig" />
+      <jump line="7" column="24" filename="$USER_HOME$/Development/workspace/Integral/integral/html/js/angular/cruse.angular.directive.disablemultifancy.js" />
+      <jump line="3" column="4" filename="$USER_HOME$/Development/workspace/Integral/integral/html/js/angular/cruse.angular.directive.disablemultifancy.js" />
+      <jump line="39" column="87" filename="$USER_HOME$/Development/workspace/Integral/integral/application/views/access/edituser.twig" />
+      <jump line="24" column="0" filename="$USER_HOME$/Development/workspace/Integral/integral/html/js/angular/cruse.angular.controller.scopecontroller.js" />
+      <jump line="13" column="15" filename="$USER_HOME$/Development/workspace/Integral/cruse-library/library/Cruse/Twig/Template/elements/element.checkbox.twig" />
+      <jump line="9" column="0" filename="$USER_HOME$/Development/workspace/Integral/cruse-library/library/Cruse/Twig/Template/elements/element.checkbox.twig" />
+      <jump line="911" column="37" filename="/workspace/LucidityApp/lucidity-app/app/lib/services/informformrecord.js" />
+      <jump line="562" column="130" filename="/workspace/LucidityApp/lucidity-app/app/lib/services/informformrecord.js" />
+      <jump line="648" column="56" filename="/workspace/LucidityApp/lucidity-app/app/lib/services/informformrecord.js" />
+      <jump line="158" column="12" filename="/workspace/LucidityApp/integral/application/ORM/da/InformFormServer.php" />
+      <jump line="536" column="41" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/informformrecord.js" />
+      <jump line="534" column="20" filename="$USER_HOME$/Development/workspace/LucidityApp/lucidity-app/app/lib/services/informformrecord.js" />
+      <jump line="1209" column="38" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/application/ORM/da/InformFormRecordServer.php" />
+      <jump line="1189" column="4" filename="$USER_HOME$/Development/workspace/LucidityApp/integral/application/ORM/da/InformFormRecordServer.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRyaWdnZXJzIHsgcG9sbFNDTSgnKi8yICogKiAqICcpIH0K</text>
+      </register>
+      <register name="-" type="4">
+        <text>t</text>
+      </register>
+      <register name="/" type="4">
+        <text>test</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UgcnVuIC13IC92YXIvd3d3L2ludGVncmFsIHBoaW5nICIkQCIK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRyaWdnZXJzIHsgcG9sbFNDTSgnKi8yICogKiAqICcpIH0K</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c2RmZGZzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZHJ0ZXIK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRyaWdnZXJzIHsgcG9sbFNDTSgnLzIgKiAqICogJykgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICBJbnRlZ3JhbDogewogICAgICAgICAgICAgICAgICAgICAgICB3aXRoRG9ja2VyUmVnaXN0cnkoW3VybDogJycsIGNyZWRlbnRpYWxzSWQ6ICdkb2NrZXItY2xvdWQnXSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2ggIiIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VkbyBkb2NrZXIgYnVpbGQgLWYgRG9ja2VyZmlsZS5jaSAtLWJ1aWxkLWFyZyBDSV9CUkFOQ0g9JHtlbnYuQlJBTkNIX05BTUV9IC10IGx1Y2lkaXR5c29mdHdhcmUvaW50ZWdyYWw6JHtlbnYuQlJBTkNIX05BTUV9IC4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdWRvIGRvY2tlciBwdXNoIGx1Y2lkaXR5c29mdHdhcmUvaW50ZWdyYWw6JHtlbnYuQlJBTkNIX05BTUV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIiIKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0s</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>test</last-search>
+      <last-offset />
+      <last-pattern>test</last-pattern>
+      <last-replace>'\/setting\/feature\/</last-replace>
+      <last-substitute>'\/</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>emplo</entry>
+        <entry>search</entry>
+        <entry encoding="base64">XDxoM1w+</entry>
+        <entry>25637</entry>
+        <entry>config</entry>
+        <entry>region</entry>
+        <entry encoding="base64">XDxEb2N0cmluZV9RdWVyeVw+</entry>
+        <entry>&quot;</entry>
+        <entry>ori</entry>
+        <entry>orien</entry>
+        <entry>\n</entry>
+        <entry>\\n</entry>
+        <entry>search_terms</entry>
+        <entry>163</entry>
+        <entry>Delete</entry>
+        <entry>^.*'\/</entry>
+        <entry>'\/</entry>
+        <entry>V-20</entry>
+        <entry>VH-20</entry>
+        <entry>test</entry>
+      </history-search>
+      <history-cmd>
+        <entry>178</entry>
+        <entry>wq!</entry>
+        <entry>w!</entry>
+        <entry>1337</entry>
+        <entry>146</entry>
+        <entry>q</entry>
+        <entry>477</entry>
+        <entry>//</entry>
+        <entry>e</entry>
+        <entry>457</entry>
+        <entry>189</entry>
+        <entry>771</entry>
+        <entry>671</entry>
+        <entry>330</entry>
+        <entry>370</entry>
+        <entry>create(</entry>
+        <entry>wq</entry>
+        <entry>668</entry>
+        <entry>649</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
