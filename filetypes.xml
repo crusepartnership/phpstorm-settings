@@ -26,6 +26,7 @@
       <mapping pattern="docker-phpunit" type="PLAIN_TEXT" />
       <mapping pattern="envlink" type="PLAIN_TEXT" />
       <mapping pattern="docker-rebuild-fpm-with-debugging" type="PLAIN_TEXT" />
+      <mapping pattern="jenkins-env" type="PLAIN_TEXT" />
       <mapping pattern="vagrant_composer" type="PLAIN_TEXT" />
       <mapping pattern="commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
