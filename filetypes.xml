@@ -14,6 +14,7 @@
       <mapping pattern="docker-selenium-hub" type="PLAIN_TEXT" />
       <mapping pattern="docker-build-php-cli5" type="PLAIN_TEXT" />
       <mapping pattern="docker-destroy" type="PLAIN_TEXT" />
+      <mapping pattern="jenkins-logs" type="PLAIN_TEXT" />
       <mapping pattern="docker-artisan-entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="install_hooks" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-phing" type="PLAIN_TEXT" />
