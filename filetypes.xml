@@ -9,6 +9,7 @@
       <mapping pattern="docker-build-ci" type="PLAIN_TEXT" />
       <mapping pattern=".workingdir" type="PLAIN_TEXT" />
       <mapping pattern="old" type="PLAIN_TEXT" />
+      <mapping pattern="jenkins-rebuild" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="provision2" type="PLAIN_TEXT" />
       <mapping pattern="docker-selenium-hub" type="PLAIN_TEXT" />
