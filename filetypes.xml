@@ -24,6 +24,7 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="docker-selenium-node" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="jenkins-init" type="PLAIN_TEXT" />
       <mapping pattern="docker-restart" type="PLAIN_TEXT" />
       <mapping pattern=".s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="docker-phpunit" type="PLAIN_TEXT" />
