@@ -9,49 +9,50 @@
       <mapping pattern="docker-build-ci" type="PLAIN_TEXT" />
       <mapping pattern=".workingdir" type="PLAIN_TEXT" />
       <mapping pattern="old" type="PLAIN_TEXT" />
+      <mapping pattern="docker-phpunit-selenium" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-rebuild" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="provision2" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="docker-selenium-hub" type="PLAIN_TEXT" />
+      <mapping pattern="docker-codecept-cli" type="PLAIN_TEXT" />
       <mapping pattern="docker-build-php-cli5" type="PLAIN_TEXT" />
       <mapping pattern="docker-destroy" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-logs" type="PLAIN_TEXT" />
-      <mapping pattern="docker-restart" type="PLAIN_TEXT" />
       <mapping pattern="docker-artisan-entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="install_hooks" type="PLAIN_TEXT" />
       <mapping pattern="docker-build-fpm" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-phing" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-start" type="PLAIN_TEXT" />
-      <mapping pattern="jenkins-codecept" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="docker-selenium-node" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-init" type="PLAIN_TEXT" />
       <mapping pattern="create-db" type="PLAIN_TEXT" />
+      <mapping pattern="docker-php-exec" type="PLAIN_TEXT" />
       <mapping pattern=".s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="docker-phpunit" type="PLAIN_TEXT" />
-      <mapping pattern="docker-artisan" type="PLAIN_TEXT" />
       <mapping pattern="envlink" type="PLAIN_TEXT" />
       <mapping pattern="docker-rebuild-fpm-with-debugging" type="PLAIN_TEXT" />
-      <mapping pattern="docker-selenium-hub" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-env" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-load-fixtures" type="PLAIN_TEXT" />
+      <mapping pattern="jenkins-codecept" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-phpunit" type="PLAIN_TEXT" />
       <mapping pattern="vagrant_composer" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="commit-msg" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-push-images" type="PLAIN_TEXT" />
-      <mapping pattern="jenkins-kill" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-seed" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="docker-phpunit-selenium" type="PLAIN_TEXT" />
+      <mapping pattern="docker-restart" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="phpunit-selenium" type="PLAIN_TEXT" />
+      <mapping pattern="marker" type="PLAIN_TEXT" />
       <mapping pattern="docker-rebuild" type="PLAIN_TEXT" />
-      <mapping pattern="docker-php-exec" type="PLAIN_TEXT" />
+      <mapping pattern="jenkins-kill" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping pattern="marker" type="PLAIN_TEXT" />
+      <mapping pattern="docker-artisan" type="PLAIN_TEXT" />
       <mapping ext="tss" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
