@@ -5,21 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller.php" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>im</mask>
-      <mask>impor</mask>
-      <mask>import/.</mask>
-      <mask>import/</mask>
-      <mask>import</mask>
-      <mask>import.</mask>
-      <mask>import.php</mask>
-      <mask>*import.php</mask>
-      <mask>*mamnag.xml</mask>
-      <mask>*mamna.xml</mask>
-      <mask>*mamn.xml</mask>
-      <mask>*mam.xml</mask>
-      <mask>*ma.xml</mask>
       <mask>*m.xml</mask>
       <mask>*mana.xml</mask>
       <mask>*manage.xml</mask>
@@ -35,7 +22,21 @@
       <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>Contr*.php</mask>
+      <mask>Cont*.php</mask>
+      <mask>Con*.php</mask>
+      <mask>Co*.php</mask>
+      <mask>C*.php</mask>
       <mask>*.php</mask>
+      <mask>*C.php</mask>
+      <mask>*Co.php</mask>
+      <mask>*Cont.php</mask>
+      <mask>*Contro.php</mask>
+      <mask>*Controlelr.php</mask>
+      <mask>*Controlel.php</mask>
+      <mask>*Controle.php</mask>
+      <mask>*Control.php</mask>
+      <mask>*Controller.php</mask>
     </recentFileMasks>
   </component>
 </application>
