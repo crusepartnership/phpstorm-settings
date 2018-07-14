@@ -1,0 +1,20 @@
+<filetype binary="false" description="TSS" name="TSS">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="#" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+    </options>
+    <keywords keywords="backgroundcolor;bottom;color;font;height;image;layout;left;right;shadow;style;textalign;tintcolor;title;top;width" ignore_case="true" />
+    <keywords2 keywords="fontfamily;fontsize;fontstyle;fontweight;shadowcolor;shadowoffset" />
+    <keywords4 keywords=":" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="tss" />
+  </extensionMap>
+</filetype>
