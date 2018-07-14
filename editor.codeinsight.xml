@@ -1,8 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="PARAMETER_INFO_DELAY" value="2000" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
-  </component>
-</application>
